@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="Role" section_id="8997101fc3710210b0c5deec050131eb" sys_domain="global" table="x_1375401_job_port_jobportal" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>activity_due</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-01 08:20:50</sys_created_on>
+            <sys_id>8d97501fc3710210b0c5deec05013109</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Role" display_value="Role" name="x_1375401_job_port_jobportal" sys_domain="global" view="Default view">8997101fc3710210b0c5deec050131eb</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-01 08:20:50</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-01 08:20:51</sys_created_on>
+            <sys_id>0597501fc3710210b0c5deec0501310a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Role" display_value="Role" name="x_1375401_job_port_jobportal" sys_domain="global" view="Default view">8997101fc3710210b0c5deec050131eb</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-01 08:20:51</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption>Role</caption>
+            <header>false</header>
+            <name>x_1375401_job_port_jobportal</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-01 08:20:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8997101fc3710210b0c5deec050131eb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1375401_job_port_jobportal</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Job_Portal" source="x_1375401_job_port">ef2ebd26c3f94210b0c5deec05013168</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Job_Portal">ef2ebd26c3f94210b0c5deec05013168</sys_scope>
+            <sys_update_name>sys_ui_section_8997101fc3710210b0c5deec050131eb</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-01 08:20:50</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Job_Portal">ef2ebd26c3f94210b0c5deec05013168</application>
+        <file_path/>
+        <instance_id>8e4103fa1b198e14a43dcb7b234bcb91</instance_id>
+        <instance_name>dev255514</instance_name>
+        <name>sys_ui_section_8997101fc3710210b0c5deec050131eb</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="Role" section_id="8997101fc3710210b0c5deec050131eb" sys_domain="global" table="x_1375401_job_port_jobportal" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>activity_due</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-05-01 08:20:50</sys_created_on><sys_id>8d97501fc3710210b0c5deec05013109</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Role" display_value="Role" name="x_1375401_job_port_jobportal" sys_domain="global" view="Default view">8997101fc3710210b0c5deec050131eb</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-05-01 08:20:50</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-05-01 08:20:51</sys_created_on><sys_id>0597501fc3710210b0c5deec0501310a</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Role" display_value="Role" name="x_1375401_job_port_jobportal" sys_domain="global" view="Default view">8997101fc3710210b0c5deec050131eb</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-05-01 08:20:51</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption>Role</caption><header>false</header><name>x_1375401_job_port_jobportal</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-05-01 08:20:50</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>8997101fc3710210b0c5deec050131eb</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1375401_job_port_jobportal</sys_name><sys_overrides/><sys_package display_value="Job_Portal" source="x_1375401_job_port">ef2ebd26c3f94210b0c5deec05013168</sys_package><sys_policy/><sys_scope display_value="Job_Portal">ef2ebd26c3f94210b0c5deec05013168</sys_scope><sys_update_name>sys_ui_section_8997101fc3710210b0c5deec050131eb</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-05-01 08:20:50</sys_updated_on><sys_user/><title>false</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>-1301985842</payload_hash>
+        <record_name>JobPortal</record_name>
+        <reverted_from/>
+        <source>6be0866ec3b94210b0c5deec0501311a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-01 08:20:51</sys_created_on>
+        <sys_id>c197501fc3710210b0c5deec0501310c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18f333dfb110000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-01 08:20:51</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>4997501f83710210c636f85c29d07c0b</update_guid>
+        <update_guid_history>4997501f83710210c636f85c29d07c0b:-1301985842</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-01 08:21:29</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>07189d07f0524fb8807deca7808d9d10</sys_id>
+        <sys_metadata>8997101fc3710210b0c5deec050131eb</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Role</sys_name>
+        <sys_package display_value="Job_Portal" source="x_1375401_job_port">ef2ebd26c3f94210b0c5deec05013168</sys_package>
+        <sys_parent display_value="JobPortal">fdb61626c37d4210b0c5deec050131f8</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Job_Portal">ef2ebd26c3f94210b0c5deec05013168</sys_scope>
+        <sys_scope_delete display_value="">68ea9326188d48c0a97521bb1f769591</sys_scope_delete>
+        <sys_update_name>sys_ui_section_8997101fc3710210b0c5deec050131eb</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_8997101fc3710210b0c5deec050131eb">c197501fc3710210b0c5deec0501310c</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-01 08:21:29</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="02961c9bc3710210b0c5deec05013178" sys_domain="global" table="x_1375401_job_port_jobportal" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-01 08:16:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>46961c9bc3710210b0c5deec0501317b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1375401_job_port_jobportal" name="x_1375401_job_port_jobportal" sys_domain="global" view="Default view">02961c9bc3710210b0c5deec05013178</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_1375401_job_port_jobportal" sys_domain="global" view="Default view">4d7f96aac37d4210b0c5deec05013106</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-01 08:16:32</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-01 08:16:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>42961c9bc3710210b0c5deec0501317c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1375401_job_port_jobportal" name="x_1375401_job_port_jobportal" sys_domain="global" view="Default view">02961c9bc3710210b0c5deec05013178</sys_ui_form>
+            <sys_ui_section caption="Log" display_value="Log" name="x_1375401_job_port_jobportal" sys_domain="global" view="Default view">06961c9bc3710210b0c5deec05013106</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-01 08:16:32</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-01 08:18:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2ff614dbc3710210b0c5deec050131ba</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1375401_job_port_jobportal" name="x_1375401_job_port_jobportal" sys_domain="global" view="Default view">02961c9bc3710210b0c5deec05013178</sys_ui_form>
+            <sys_ui_section caption="Statistics" display_value="Statistics" name="x_1375401_job_port_jobportal" sys_domain="global" view="Default view">6bf614dbc3710210b0c5deec0501313b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-01 08:18:17</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_1375401_job_port_jobportal</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-01 08:16:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>02961c9bc3710210b0c5deec05013178</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1375401_job_port_jobportal</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Job_Portal" source="x_1375401_job_port">ef2ebd26c3f94210b0c5deec05013168</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Job_Portal">ef2ebd26c3f94210b0c5deec05013168</sys_scope>
+            <sys_update_name>sys_ui_form_sections_02961c9bc3710210b0c5deec05013178</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-01 08:16:32</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

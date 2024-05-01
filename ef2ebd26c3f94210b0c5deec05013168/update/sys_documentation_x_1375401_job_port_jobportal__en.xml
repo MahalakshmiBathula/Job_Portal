@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="JobPortal" language="en" table="x_1375401_job_port_jobportal">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>JobPortal</label>
+            <language>en</language>
+            <name>x_1375401_job_port_jobportal</name>
+            <plural>JobPortals</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-29 09:43:21</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>JobPortal</sys_name>
+            <sys_package display_value="Job_Portal" source="x_1375401_job_port">ef2ebd26c3f94210b0c5deec05013168</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Job_Portal">ef2ebd26c3f94210b0c5deec05013168</sys_scope>
+            <sys_update_name>sys_documentation_x_1375401_job_port_jobportal__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-29 09:43:21</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
